@@ -1,7 +1,7 @@
 package coffeeshop.business;
 
-import coffeeshop.adapters.CitizenValidationService;
 import coffeeshop.models.Customer;
+import commons.CitizenValidationService;
 
 public class StarbucksCustomerManager extends CustomerManager {
 

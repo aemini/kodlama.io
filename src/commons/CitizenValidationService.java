@@ -1,4 +1,4 @@
-package coffeeshop.adapters;
+package commons;
 
 public interface CitizenValidationService {
 

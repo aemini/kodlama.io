@@ -6,8 +6,8 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-import coffeeshop.adapters.Citizen;
 import coffeeshop.adapters.Entity;
+import commons.Citizen;
 
 public class Customer implements Citizen, Entity {
 

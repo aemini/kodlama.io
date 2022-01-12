@@ -1,11 +1,11 @@
-package coffeeshop.mernis;
+package services;
 
 import java.rmi.RemoteException;
 import java.util.Locale;
 import java.util.Objects;
 
-import coffeeshop.adapters.Citizen;
-import coffeeshop.adapters.CitizenValidationService;
+import commons.Citizen;
+import commons.CitizenValidationService;
 import external.mernis.ws.KPSPublicSoapProxy;
 
 public class MernisValidationService implements CitizenValidationService {

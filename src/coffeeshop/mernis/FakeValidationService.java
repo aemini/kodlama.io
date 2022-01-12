@@ -1,7 +1,7 @@
 package coffeeshop.mernis;
 
-import coffeeshop.adapters.Citizen;
-import coffeeshop.adapters.CitizenValidationService;
+import commons.Citizen;
+import commons.CitizenValidationService;
 
 public class FakeValidationService implements CitizenValidationService {
 

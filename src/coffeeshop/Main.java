@@ -1,11 +1,11 @@
 package coffeeshop;
 
-import coffeeshop.adapters.CitizenValidationService;
 import coffeeshop.business.CustomerManager;
 import coffeeshop.business.NeroCustomerManager;
 import coffeeshop.business.StarbucksCustomerManager;
-import coffeeshop.mernis.MernisValidationService;
 import coffeeshop.models.Customer;
+import commons.CitizenValidationService;
+import services.MernisValidationService;
 
 public class Main {
 
