@@ -3,4 +3,5 @@
 
 
 * [3. Gün](src/homework3)
-* [4. Gün](src/coffeeshop)
+* [Coffee Shop](src/coffeeshop)
+* [Game Shop](src/gameshop)
